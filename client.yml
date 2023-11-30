@@ -1,4 +1,4 @@
-word-config:
+wordConfig:
   lucky-word:
     -dev
     -like
