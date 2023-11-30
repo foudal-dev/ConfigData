@@ -3,4 +3,4 @@ word-config:
     -dev
     -like
     -an
-    -expert
+    -low
