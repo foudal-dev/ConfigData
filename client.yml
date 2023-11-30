@@ -1,5 +1,6 @@
-lucky-word:
-  -dev
-  -like
-  -an
-  -expert
+word-config:
+  lucky-word:
+    -dev
+    -like
+    -an
+    -expert
