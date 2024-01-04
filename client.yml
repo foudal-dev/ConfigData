@@ -3,4 +3,4 @@ wordConfig:
     -dev
     -like
     -an
-    -unhappy x8
+    -happy x8
